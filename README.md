@@ -4,7 +4,7 @@
 
    Date | Content 
   ---|:---:
-   2019-09-04 | [Compile , Build, Deploy](https://github.com/sukjae/daily-study/blob/master/2019-07-01.md)
+   2019-09-04 | [Compile , Build, Deploy](https://github.com/jokerKwu/Daily_Study/blob/master/19-09-04.md)
    
    
    
