@@ -13,4 +13,4 @@
    2019-09-27 | [ Union-Find Data Structure ](https://github.com/jokerKwu/Daily_Study/blob/master/19-09-27.md)
    2019-10-01 | [ Spring MVC Pattern & Terms ](https://github.com/jokerKwu/Daily_Study/blob/master/19-10-01.md)
    2019-10-03 | [ HTTP STATUS CODE ](https://github.com/jokerKwu/Daily_Study/blob/master/19-10-03.md)
- 
+   2019-10-09 | [ Topological Sort ](https://github.com/jokerKwu/Daily_Study/blob/master/19-10-09.md) 
