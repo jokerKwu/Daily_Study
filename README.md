@@ -14,4 +14,4 @@
    2019-10-01 | [ Spring MVC Pattern & Terms ](https://github.com/jokerKwu/Daily_Study/blob/master/19-10-01.md)
    2019-10-03 | [ HTTP STATUS CODE ](https://github.com/jokerKwu/Daily_Study/blob/master/19-10-03.md)
    2019-10-09 | [ Topological Sort ](https://github.com/jokerKwu/Daily_Study/blob/master/19-10-09.md) 
-   2019-10-17 | [ Web Application Server ](https://github.com/jokerKwu/Daily_Study/commit/bf39ad603e314def029bc6ed7e15323492b4b653)
+   2019-10-17 | [ Web Application Server ](https://github.com/jokerKwu/Daily_Study/blob/master/19-10-17.md)
